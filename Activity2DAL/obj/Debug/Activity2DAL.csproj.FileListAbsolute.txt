@@ -1,0 +1,9 @@
+W:\LTTS\WEBAPI\Activity2\Activity2DAL\bin\Debug\Activity2DAL.dll
+W:\LTTS\WEBAPI\Activity2\Activity2DAL\bin\Debug\Activity2DAL.pdb
+W:\LTTS\WEBAPI\Activity2\Activity2DAL\bin\Debug\Activity2DTO.dll
+W:\LTTS\WEBAPI\Activity2\Activity2DAL\bin\Debug\Activity2DTO.pdb
+W:\LTTS\WEBAPI\Activity2\Activity2DAL\obj\Debug\Activity2DAL.csproj.AssemblyReference.cache
+W:\LTTS\WEBAPI\Activity2\Activity2DAL\obj\Debug\Activity2DAL.csproj.CoreCompileInputs.cache
+W:\LTTS\WEBAPI\Activity2\Activity2DAL\obj\Debug\Activity2DAL.csproj.CopyComplete
+W:\LTTS\WEBAPI\Activity2\Activity2DAL\obj\Debug\Activity2DAL.dll
+W:\LTTS\WEBAPI\Activity2\Activity2DAL\obj\Debug\Activity2DAL.pdb
